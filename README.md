@@ -8,5 +8,18 @@
 - 도트 매트릭스(MAX7219)를 SPI 통신으로 제어하여 조도 상태를 시각적으로 표현
 
 
-#### 🎥 비디오 보기
-[![Watch the video](https://img.youtube.com/vi/s66GQ_fpOWM/0.jpg)](https://www.youtube.com/watch?v=s66GQ_fpOWM&t=1s)
+### 📸 프로젝트 사진
+
+<a href="images/stm32cube.png">
+  <img src="images/stm32cube.png" alt="STM32 핀 활성화" width="400">
+</a>
+
+<!-- 1. 프로젝트 회로 구조 -->
+<img src="images/회로구조.png" alt="프로젝트의 회로 구조" width="500">
+
+<!-- 2. 밝은 곳에서의 조명 제어 (90도 회전) -->
+<img src="images/sun.jpg" alt="밝은 곳에서의 조명 제어" width="400">
+
+<!-- 3. 어두운 곳에서의 조명 제어 (90도 회전) -->
+<img src="images/sun.jpg" alt="어두운 곳에서의 조명 제어" width="400">
+
