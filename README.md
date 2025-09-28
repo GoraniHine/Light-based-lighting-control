@@ -13,14 +13,17 @@
 <a href="images/stm32cube.png">
   <img src="images/stm32cube.png" alt="STM32 핀 활성화" width="400">
 </a>
+- STM32 핀 활성화  
 
 <!-- 1. 프로젝트 회로 구조 -->
 <img src="images/회로구조.png" alt="프로젝트의 회로 구조" width="500">
+- STM32 프로젝트 회로 구조  
 
 <!-- 2. 밝은 곳에서의 조명 제어 -->
 <img src="images/sun.jpg" alt="밝은 곳에서의 조명 제어" width="400">
+- 밝은 곳에서의 조명 제어  
 
 <!-- 3. 어두운 곳에서의 조명 제어 -->
 <img src="images/moon.jpg" alt="어두운 곳에서의 조명 제어" width="400">
-
+- 어두운 곳에서의 조명 제어  
 
