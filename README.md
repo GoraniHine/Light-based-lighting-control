@@ -18,7 +18,7 @@
 <img src="images/회로구조.png" alt="프로젝트의 회로 구조" width="500">
 
 <!-- 2. 밝은 곳에서의 조명 제어 -->
-<img src="images/sun.jpg" alt="밝은 곳에서의 조명 제어" width="400">
+<img src="images/moon.jpg" alt="밝은 곳에서의 조명 제어" width="400">
 
 <!-- 3. 어두운 곳에서의 조명 제어 -->
 <img src="images/moon.jpg" alt="어두운 곳에서의 조명 제어" width="400">
