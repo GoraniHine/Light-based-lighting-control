@@ -21,6 +21,6 @@
 <img src="images/sun.jpg" alt="밝은 곳에서의 조명 제어" width="400">
 
 <!-- 3. 어두운 곳에서의 조명 제어 -->
-<img src="images/sun.jpg" alt="어두운 곳에서의 조명 제어" width="400">
+<img src="images/moon.jpg" alt="어두운 곳에서의 조명 제어" width="400">
 
 
